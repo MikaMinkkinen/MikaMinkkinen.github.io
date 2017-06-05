@@ -25,6 +25,7 @@ twitter_username: mikaminkkinen
 github_username:  MikaMinkkinen
 google_analytics: UA-35029647-3
 date_format: "%d.%m.%Y"
+timezone: Europe/Helsinki
 # Build settings
 markdown: kramdown
 theme: minima

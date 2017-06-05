@@ -13,6 +13,7 @@ jekyll serve --watch --incremental --drafts
 - Gulp autoprefixer
 - Gulp soursemaps
 - Solve: ERROR `/browser-sync/socket.io/' not found
+- implement: https://github.com/gitpitch/gitpitch
 
 
 
