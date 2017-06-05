@@ -20,10 +20,11 @@ description: >
   I do the plan, design and build the product in digital athmophere. I´m always available to chat (Twitter) and share thoughts (Medium).
   Lets connect our minds!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mikaminkkinen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mikaminkkinen
 github_username:  MikaMinkkinen
-
+google_analytics: UA-35029647-3
+date_format: "%d.%m.%Y"
 # Build settings
 markdown: kramdown
 theme: minima
